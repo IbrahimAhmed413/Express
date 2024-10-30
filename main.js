@@ -18,6 +18,7 @@ app.use('/' , (req, res)=>{
     console.log("err: ", req);
 })
 
+//code of node.js server creation
 // Http.createServer((req, res) =>{
 //     res.write("helloworld");
 //     res.end();
